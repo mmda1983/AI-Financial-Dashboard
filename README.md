@@ -108,9 +108,7 @@ The dataset contains financial and sales data including:
 
 ## 📸 Dashboard Preview
 
-📷 /images/ai_financial_dashboard.png
-📷 /images/ai_financial_dashboard_forecast.png
-```
+https://app.powerbi.com/view?r=eyJrIjoiMDg4M2EzMGEtOWRiYS00N2I0LTg1ZGUtMzAwMmJjNjIwOTM3IiwidCI6IjQ3OTFjN2M2LWZlNjMtNDBkYy1iNGIwLTJkYWY2MTQ5NjI0NCJ9
 
 ---
 
